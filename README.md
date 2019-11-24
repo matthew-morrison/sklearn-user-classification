@@ -45,15 +45,15 @@ I used different models without hyperparameterization. Surprisingly, I got an ac
 
 **method**|**score**
 :-----:|:-----:
-9|knn\_hash
-11|knn\_count
-7|sgdc\_count
-3|nb\_count
-2|nb\_count\_tfidf
-5|sgdc\_hash
-10|knn\_count\_tfidf
-0|nb\_hash\_tfidf
-8|knn\_hash\_tfidf
-1|nb\_hash
-4|sgdc\_hash\_tfidf
-6|sgdc\_count\_tfidf
+knn\_hash|0.243243
+knn\_count|0.270270
+sgdc\_count|0.351351
+nb\_count|0.378378
+nb\_count\_tfidf|0.405405
+sgdc\_hash|0.459459
+knn\_count\_tfidf|0.513514
+nb\_hash\_tfidf|0.621622
+knn\_hash\_tfidf|0.621622
+nb\_hash|0.702703
+sgdc\_hash\_tfidf|0.729730
+sgdc\_count\_tfidf|0.729730
