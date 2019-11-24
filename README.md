@@ -41,7 +41,7 @@ More specifically, I compared user messages on one public discord server against
 
 ## Results
 
-I used different models without hyperparameterization. Surprisingly, I got an accurate result with [sgdc_tfidf](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html). (The sgdc_tfidf classification is essentially a [Support Vector Machine](https://scikit-learn.org/stable/modules/svm.html).)
+I used different models without hyperparameterization. Surprisingly, I got an accurate result with [sgdc_tfidf](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html). The sgdc_tfidf classification is essentially a [Support Vector Machine](https://scikit-learn.org/stable/modules/svm.html).
 
 **method**|**score**
 :-----:|:-----:
