@@ -11,7 +11,7 @@
 ## Requirements
 
 The following things need to be installed to run this project: 
-- Python3
+- [Python3](https://www.python.org/downloads/)
 - [sklearn](https://scikit-learn.org/stable/install.html)
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 
